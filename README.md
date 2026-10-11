@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi, I'm Jafer Sathik B 👋</h1>
 
 <h3 align="center">Software Developer | Full-Stack & AI/ML</h3>
@@ -34,4 +33,3 @@
 <p align="center">
   <i>Always learning. Always building. Always improving.</i>
 </p>
-```
