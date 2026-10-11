@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer | Full-Stack & AI/ML</h3>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jafersathikbits/jafersathikbits&count_bg=%232563EB&title_bg=%23555555&title=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jafersathikbits&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
