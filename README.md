@@ -3,10 +3,6 @@
 <h3 align="center">Software Developer | Full-Stack & AI/ML</h3>
 
 <p align="center">
-  <img src="https://u8views.com/api/v1/github/profiles/134440332/views/badge.svg?style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
-<p align="center">
   Building practical software to solve real-world problems.
 </p>
 
