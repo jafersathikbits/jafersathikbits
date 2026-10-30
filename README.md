@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jafersathikbits&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <h1 align="center">Hi, I'm Jafer Sathik B 👋</h1>
 
 <h3 align="center">Software Developer | Full-Stack & AI/ML</h3>
@@ -8,7 +12,7 @@
 
 <p align="center">
   <a href="https://jafersathikbits.github.io/jsb-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/jafersathikbits">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
